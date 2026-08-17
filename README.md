@@ -1,3 +1,9 @@
+## KafkaReddit
+
+This project streams Reddit posts and comments from a subreddit to Kafka and runs a pipeline that tracks the most talked about topics or entities in the subreddit over a certain amount of time.
+
+![snapshot](<snapshots for part 2/4hr.png>)
+
 ## Prerequisites:
 Have python, spark, kafka, and elastic (elastic, logstash, kibana) installed.
 
